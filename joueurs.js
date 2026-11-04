@@ -25,7 +25,7 @@ const defenseurs = [
     { nom: "NAOUFEL KHACEF", club: "CR Belouizdad", photo: "photos/khacef.png", logo: "logos/crb.png" },
     { nom: "ZINEDDINE BELAID", club: "Al-Taawoun FC", photo: "photos/belaid.png", logo: "logos/altaawoun.png" },
     { nom: "JAOUEN HADJAM", club: "Brighton", photo: "photos/hadjam.png", logo: "logos/brighton.png" },
-   { nom: "KELYANN BEZAHAF", club: "Olympique de Marseille", photo: "photos/bezahaf.png", logo: "logos/om.png" }
+   { nom: "KELYANN BEZAHAF", club: "Olympique de Marseille", photo: "photos/bezahaf.png", logo: "logos/om.png" },
     { nom: "MOHAMED AZZI", club: "CSKA Moscou", photo: "photos/azzi.png", logo: "CSKA.png" }
 ];
 
