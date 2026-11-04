@@ -40,7 +40,7 @@ const milieux = [
     { nom: "IBRAHIM MAZA", club: "Bayer Leverkusen", photo: "photos/maza.png", logo: "logos/leverkusen.png" },
     { nom: "HICHAM BOUDAOUI", club: "OGC Nice", photo: "photos/boudaoui.png", logo: "logos/nice.png" },
     { nom: "HOUSSEM AOUAR", club: "Al-Ittihad Club", photo: "photos/aouar.png", logo: "logos/al_ittihad.png" },
-    { nom: "RAMIZ ZERROUKI", club: "FC Twente", photo: "photos/zerrouki.png", logo: "logos/fctwente.png" },
+    { nom: "RAMIZ ZERROUKI", club: "FC Twente", photo: "photos/zerrouki.png", logo: "logos/twente.png" },
     { nom: "ILAN KEBBAL", club: "Paris FC", photo: "photos/kebbal.png", logo: "logos/paris_fc.png" }
 ];
 
