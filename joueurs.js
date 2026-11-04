@@ -6,8 +6,8 @@ const gardiens = [
     { nom: "MELVIN MASTIL", club: "FC Lausanne-Sport", photo: "photos/mastil.png", logo: "logos/lausanne.png" },
     { nom: "RAYANE YESLI", club: "Olympique Akbou", photo: "photos/yesli.png", logo: "logos/olympique_akbou.png" },
     { nom: "KILLIAN BELAZZOUG", club: "Stade Rennais", photo: "photos/belazzoug.png", logo: "logos/stade_rennais.png" },
-    { nom: "ABDELATIF RAMDANE", club: "", photo: "photos/ramdane.png", logo: "" },
-    { nom: "MOHAMMED EL KOUBI", club: "", photo: "photos/elkoubi.png", logo: "" },   
+    { nom: "ABDELATIF RAMDANE", club: "MC Alger", photo: "photos/ramdane.png", logo: "logos/mca.png" },
+{ nom: "MOHAMMED EL KOUBI", club: "Paradou AC", photo: "photos/elkoubi.png", logo: "logos/paradou.png" }, 
 ];
 
 const defenseurs = [
@@ -25,8 +25,8 @@ const defenseurs = [
     { nom: "NAOUFEL KHACEF", club: "CR Belouizdad", photo: "photos/khacef.png", logo: "logos/crb.png" },
     { nom: "ZINEDDINE BELAID", club: "Al-Taawoun FC", photo: "photos/belaid.png", logo: "logos/altaawoun.png" },
     { nom: "JAOUEN HADJAM", club: "Brighton", photo: "photos/hadjam.png", logo: "logos/brighton.png" },
-    { nom: "KELYANN BEZAHAF", club: "", photo: "photos/bezahaf.png", logo: "" },
-    { nom: "MOHAMED AZZI", club: "", photo: "photos/azzi.png", logo: "" }
+   { nom: "KELYANN BEZAHAF", club: "Olympique de Marseille", photo: "photos/bezahaf.png", logo: "logos/om.png" }
+    { nom: "MOHAMED AZZI", club: "CSKA Moscou", photo: "photos/azzi.png", logo: "CSKA.png" }
 ];
 
 const milieux = [
