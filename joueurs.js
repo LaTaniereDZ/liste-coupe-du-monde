@@ -15,7 +15,7 @@ const defenseurs = [
     { nom: "SOHAIB NAIR", club: "AS Saint-Étienne", photo: "photos/nair.png", logo: "logos/asse.png" },
     { nom: "SAMIR CHERGUI", club: "Paris FC", photo: "photos/chergui.png", logo: "logos/paris_fc.png" },
     { nom: "RAMY BENSEBAINI", club: "Borussia Dortmund", photo: "photos/bensebaini.png", logo: "logos/bvb.png" },
-    { nom: "MOHAMED TOUGAI", club: "Ah Ahli SC", photo: "photos/tougai.png", logo: "logos/ahahli.png" },
+    { nom: "MOHAMED TOUGAI", club: "Ah Ahli SC", photo: "photos/tougai.png", logo: "logos/alahli.png" },
     { nom: "MEHDI DORVAL", club: "US Catanzaro", photo: "photos/dorval.png", logo: "logos/catanzaro.png" },
     { nom: "SAADI RADOUANI", club: "USM Alger", photo: "photos/radouani.png", logo: "logos/usma.png" },
     { nom: "RAYAN AIT NOURI", club: "Manchester City", photo: "photos/ait_nouri.png", logo: "logos/mancity.png" },
