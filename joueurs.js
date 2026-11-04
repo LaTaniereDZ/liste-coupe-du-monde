@@ -7,7 +7,7 @@ const gardiens = [
     { nom: "RAYANE YESLI", club: "Olympique Akbou", photo: "photos/yesli.png", logo: "logos/olympique_akbou.png" },
     { nom: "KILLIAN BELAZZOUG", club: "Stade Rennais", photo: "photos/belazzoug.png", logo: "logos/stade_rennais.png" },
     { nom: "ABDELATIF RAMDANE", club: "MC Alger", photo: "photos/ramdane.png", logo: "logos/mca.png" },
-{ nom: "MOHAMMED EL KOUBI", club: "Paradou AC", photo: "photos/elkoubi.png", logo: "logos/paradou.png" }, 
+{ nom: "MOHAMMED EL KOUBI", club: "Paradou AC", photo: "photos/elkoubi.png", logo: "logos/paradou.png" }
 ];
 
 const defenseurs = [
@@ -41,7 +41,7 @@ const milieux = [
     { nom: "HICHAM BOUDAOUI", club: "OGC Nice", photo: "photos/boudaoui.png", logo: "logos/nice.png" },
     { nom: "HOUSSEM AOUAR", club: "Al-Ittihad Club", photo: "photos/aouar.png", logo: "logos/al_ittihad.png" },
     { nom: "RAMIZ ZERROUKI", club: "FC Twente", photo: "photos/zerrouki.png", logo: "logos/fctwente.png" },
-    { nom: "ILAN KEBBAL", club: "Paris FC", photo: "photos/kebbal.png", logo: "logos/paris_fc.png" },
+    { nom: "ILAN KEBBAL", club: "Paris FC", photo: "photos/kebbal.png", logo: "logos/paris_fc.png" }
 ];
 
 const attaquants = [
